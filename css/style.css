@@ -1,0 +1,21 @@
+#logo{
+    display: block;
+    margin: 0px auto;
+}
+
+h1{
+    background-color: rgb(198, 190, 190);
+    color: rgb(4, 100, 145);
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(198, 190, 190);
+    color: rgb(4, 100, 145);
+}
+
+footer{
+    background-color: rgb(4,100,145);
+    color: rgb(255,255,255);
+    text-align: center;
+}
